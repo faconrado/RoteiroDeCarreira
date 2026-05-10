@@ -1,0 +1,226 @@
+# 🚀 Plano de Carreira — Desenvolvedor Full Stack
+
+Olá! 👋  
+Você escolheu a área de **Desenvolvimento Full Stack** e possui **10 horas semanais** para estudar.  
+Com isso, foi montado um plano de evolução focado em prática, construção de portfólio e preparação para o mercado.
+
+---
+
+# 🧩 Como é o dia a dia de um Desenvolvedor Full Stack
+
+Um desenvolvedor Full Stack trabalha tanto no **front-end** quanto no **back-end** das aplicações.
+
+## 🔹 Principais responsabilidades
+
+- 🎨 Criar interfaces web responsivas
+- ⚙️ Desenvolver APIs e regras de negócio
+- 🗄️ Integrar aplicações com bancos de dados
+- 🐞 Corrigir bugs e melhorar sistemas
+- 🤝 Trabalhar em equipe com design e produto
+
+---
+
+# 🧠 Mapa de Skills
+
+## ✅ Core Skills (Essenciais)
+
+- JavaScript e TypeScript
+- React.js
+- Node.js
+- SQL e NoSQL
+- Lógica de programação
+
+## ⭐ Nice-to-Have (Diferenciais)
+
+- Git e GitHub
+- Deploy em nuvem
+- Conceitos básicos de DevOps
+
+---
+
+# 🛠️ Tecnologias Recomendadas
+
+| Front-end | Back-end | Banco de Dados |
+| :--- | :--- | :--- |
+| HTML | Node.js | MongoDB |
+| CSS | Express | PostgreSQL |
+| JavaScript | APIs REST | SQL |
+
+---
+
+# 📅 Roadmap de 90 Dias
+
+> ⏱️ Plano adaptado para **10h por semana**
+
+---
+
+# 📘 Mês 1 — Fundamentos
+
+## 🗓️ Semanas 1–2
+
+- Revisar HTML e CSS
+- Estudar lógica de programação
+- Criar páginas estáticas simples
+
+## 🗓️ Semanas 3–4
+
+- Aprender JavaScript moderno (ES6+)
+- Manipular DOM e eventos
+- Resolver exercícios práticos
+
+---
+
+# 🧪 Mês 2 — Prática
+
+## 🗓️ Semanas 5–6
+
+### Estudar:
+- React.js
+- Componentes
+- Props
+- State
+
+### Projeto:
+- Criar um mini projeto front-end
+
+## 🗓️ Semanas 7–8
+
+### Estudar:
+- Node.js
+- Express
+- APIs REST
+
+### Projeto:
+- Criar uma API CRUD simples
+
+---
+
+# 🚀 Mês 3 — Portfólio e Mercado
+
+## 🗓️ Semanas 9–10
+
+- Integrar React com Node.js
+- Conectar banco de dados
+
+## 🗓️ Semanas 11–12
+
+- Finalizar projeto Full Stack
+- Publicar no GitHub
+- Fazer deploy no Vercel ou Render
+
+---
+
+# 💼 Projeto de Portfólio
+
+# 📌 To-Do App Full Stack
+
+## 🎯 Objetivo
+
+Criar um sistema onde o usuário possa:
+
+- ✅ Criar tarefas
+- ✏️ Editar tarefas
+- ❌ Excluir tarefas
+- 🔐 Fazer login
+- 💾 Salvar dados no banco
+
+---
+
+## 📦 Entregáveis
+
+- 🎨 Front-end em React
+- ⚙️ API REST com Node.js/Express
+- 🗄️ Banco de dados integrado
+- ☁️ Deploy online
+
+---
+
+## ✅ Critérios de Aceitação
+
+- CRUD funcional
+- Interface responsiva
+- Aplicação online acessível por link
+- Código organizado no GitHub
+
+---
+
+# 💡 Melhorias Futuras
+
+- 🔐 Autenticação JWT
+- 🌙 Dark Mode
+- 🔎 Filtros de tarefas
+- 📱 Responsividade avançada
+
+---
+
+# 💬 Preparação para Entrevistas
+
+## ❓ Explique um projeto que você desenvolveu
+
+Fale sobre:
+- objetivo do projeto
+- tecnologias utilizadas
+- dificuldades enfrentadas
+- soluções aplicadas
+
+---
+
+## ❓ Qual a diferença entre front-end e back-end?
+
+- 🎨 Front-end → Interface visual
+- ⚙️ Back-end → Regras de negócio e banco de dados
+
+---
+
+## ❓ O que é uma API REST?
+
+É um padrão de comunicação entre sistemas utilizando métodos HTTP:
+
+- GET
+- POST
+- PUT
+- DELETE
+
+---
+
+## ❓ Como você versiona seu código?
+
+Utilizando:
+- Git
+- GitHub
+- Branches
+- Commits organizados
+
+---
+
+# 🎓 Trilha Recomendada
+
+## 📚 DIO — Bootcamp Fullstack Developer
+
+🔗 https://www.dio.me
+
+### 🔥 Por que essa trilha?
+
+- Projetos práticos
+- Conteúdo atualizado
+- Introdução ao mercado
+- Excelente para iniciantes
+
+---
+
+# ✨ Considerações Finais
+
+O mais importante não é velocidade — é consistência.
+
+Mesmo estudando apenas **10 horas por semana**, você pode evoluir muito mantendo frequência e prática.
+
+## 🎯 Foque em:
+
+- Construir projetos
+- Publicar no GitHub
+- Aprender praticando
+- Resolver problemas reais
+
+---
+
+# 🚀 Bora codar!
